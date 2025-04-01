@@ -51,3 +51,15 @@ section {
   margin: 20px;
   padding: 40px;
 }
+
+footer {
+  margin: 20px;
+  padding: 40px;
+  background-color: #b3cedc;
+}
+
+footer>div {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+}
