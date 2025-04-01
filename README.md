@@ -1,8 +1,9 @@
 
-Створити HTML-сторінку зі своїм резюме.
+Створити HTML-сторінку зі своїм резюме з css стилями.
 
 фото;
 посилання на соціальні мережі;
 без синтаксичних помилок.
 
-![image](https://github.com/user-attachments/assets/e55d106a-d0fb-44c8-99d3-542d1c9299b4)
+<img width="1467" alt="image" src="https://github.com/user-attachments/assets/b4966583-656d-48cd-be62-22d36efef00b" />
+
